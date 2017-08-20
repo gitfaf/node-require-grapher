@@ -1,0 +1,35 @@
+{
+  "name": "node-require-grapher",
+  "version": "1.0.0",
+  "description": "graph require calls in node",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfaf/node-require-grapher.git"
+  },
+  "keywords": [
+    "graph-require",
+    "require mapper",
+    "require",
+    "require grapher",
+    "node",
+    "require",
+    "node require",
+    "node require grapher",
+    "how does node require work",
+    "node require working",
+    "require working"
+  ],
+  "author": "Git Faf <Git.Faf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitfaf/node-require-grapher/issues"
+  },
+  "homepage": "https://github.com/gitfaf/node-require-grapher#readme"
+}
