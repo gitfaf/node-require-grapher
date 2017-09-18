@@ -1,19 +1,30 @@
 # node-require-grapher
-Graph require() calls in nodejs
 
-# How to use?
+Graph require() calls in nodejs.
+
+By graph I mean scribble them in console.
+
+## Usage
+
+```bash
+
+    npm i -D node-require-grapher
 
 ```
-    npm i -D node-require-grapher
+
+```javascript
 
     // in the main file (the one you described in package.json) or whereever you want
     require('node-require-grapher')();
-    
-    run node application
+
+    // then just run your node application
+
 ```
 
-# Thanks
-niggler.
+## Thanks
 
-# License
-MIT
+niggler (a person who helped me on freenode##javascript; thank that beautiful soul)
+
+## License
+
+MIT &copy; Git Faf 2017
